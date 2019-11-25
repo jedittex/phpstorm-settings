@@ -1,0 +1,9 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="PATH" value="/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/jeditt/.composer/vendor/bin" />
+    <ignoredMacro name="MESSAGE" />
+    <ignoredMacro name="FILE_PATH" />
+    <ignoredMacro name="LINE" />
+    <ignoredMacro name="COLUMN" />
+  </component>
+</application>

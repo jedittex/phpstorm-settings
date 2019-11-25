@@ -1,0 +1,6 @@
+<templateSet group="Zen CSS">
+  <template name="mb" value="margin-bottom:$VAR0$;" description="margin-bottom:...;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>

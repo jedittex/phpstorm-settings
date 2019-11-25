@@ -1,0 +1,29 @@
+<templateSet group="PHP">
+  <template name="vdd" value="var_dump( $END$ );die;" description="var_dump an die" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="vddf" value="var_dump( __FUNCTION__, $END$ );die;" description="var_dump and die FUNC" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="vddfl" value="var_dump( __FUNCTION__, __LINE__, $END$ );die;" description="var_dump and die FUNC with LINE" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="vd" value="var_dump( $END$ );" description="var_dump" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="__" value="&lt;?= __('$END$'); ?&gt;" description="__ function in template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

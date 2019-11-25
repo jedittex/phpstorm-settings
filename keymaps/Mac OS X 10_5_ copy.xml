@@ -1,0 +1,50 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Git.Revert">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
+  <action id="GotoBookmark0">
+    <keyboard-shortcut first-keystroke="ctrl 0" />
+    <keyboard-shortcut first-keystroke="ctrl alt 0" />
+  </action>
+  <action id="GotoBookmark1">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
+  <action id="GotoBookmark2">
+    <keyboard-shortcut first-keystroke="ctrl alt 2" />
+  </action>
+  <action id="GotoBookmark3">
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+    <keyboard-shortcut first-keystroke="ctrl alt 3" />
+  </action>
+  <action id="GotoBookmark4">
+    <keyboard-shortcut first-keystroke="ctrl 4" />
+    <keyboard-shortcut first-keystroke="ctrl alt 4" />
+  </action>
+  <action id="GotoBookmark5">
+    <keyboard-shortcut first-keystroke="ctrl 5" />
+    <keyboard-shortcut first-keystroke="ctrl alt 5" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+</keymap>
