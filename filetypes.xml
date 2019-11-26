@@ -10,10 +10,10 @@
       <mapping ext="info" type="PHP" />
       <mapping pattern="paths" type="PLAIN_TEXT" />
       <mapping pattern="сс" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="TSKS" type="PLAIN_TEXT" />
       <mapping pattern="QUESTION" type="PLAIN_TEXT" />
-      <mapping pattern=".gitingnore" type="PLAIN_TEXT" />
       <mapping pattern="packs_track_ids" type="PLAIN_TEXT" />
       <mapping pattern="mailru_regions" type="PLAIN_TEXT" />
       <mapping pattern="filessizes" type="PLAIN_TEXT" />
@@ -40,7 +40,7 @@
       <mapping pattern="TASKS2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="template" type="PLAIN_TEXT" />
-      <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern=".gitingnore" type="PLAIN_TEXT" />
       <mapping pattern="HOURS" type="PLAIN_TEXT" />
       <mapping pattern="PaypalComponent.php" type="PLAIN_TEXT" />
       <mapping pattern=".my" type="PLAIN_TEXT" />
