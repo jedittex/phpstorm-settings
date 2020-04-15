@@ -31,6 +31,7 @@
       <mapping pattern="image_duplicates" type="PLAIN_TEXT" />
       <mapping pattern="CHANGES" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="aliases" type="PLAIN_TEXT" />
       <mapping pattern="TMP" type="PLAIN_TEXT" />
       <mapping pattern="TASKS2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
