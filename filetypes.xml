@@ -16,7 +16,6 @@
       <mapping pattern="template" type="PLAIN_TEXT" />
       <mapping pattern="TRANSFER" type="PLAIN_TEXT" />
       <mapping pattern="image_duplicates" type="PLAIN_TEXT" />
-      <mapping pattern="TASKS" type="PLAIN_TEXT" />
       <mapping pattern="HOURS" type="PLAIN_TEXT" />
       <mapping pattern="startenv" type="PLAIN_TEXT" />
       <mapping pattern="packs_track_ids" type="PLAIN_TEXT" />
@@ -30,6 +29,7 @@
       <mapping pattern="mailru_regions" type="PLAIN_TEXT" />
       <mapping pattern="INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="TMP" type="PLAIN_TEXT" />
+      <mapping pattern="TASKS" type="PLAIN_TEXT" />
       <mapping pattern="ya_regions" type="PLAIN_TEXT" />
       <mapping pattern="TASKS2" type="PLAIN_TEXT" />
       <mapping pattern="filesizes" type="PLAIN_TEXT" />
