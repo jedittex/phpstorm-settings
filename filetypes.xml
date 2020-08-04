@@ -7,7 +7,7 @@
       <mapping ext="default" type="PHP" />
       <mapping ext="info" type="PHP" />
       <mapping pattern="paths" type="PLAIN_TEXT" />
-      <mapping pattern="TASKS" type="PLAIN_TEXT" />
+      <mapping pattern="footer" type="PLAIN_TEXT" />
       <mapping pattern="сс" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="TSKS" type="PLAIN_TEXT" />
@@ -17,13 +17,15 @@
       <mapping pattern=".most_viewed.php.swp" type="PLAIN_TEXT" />
       <mapping pattern="template" type="PLAIN_TEXT" />
       <mapping pattern="ya_regions" type="PLAIN_TEXT" />
+      <mapping pattern="startenv" type="PLAIN_TEXT" />
+      <mapping pattern="cc" type="PLAIN_TEXT" />
       <mapping pattern="fg" type="PLAIN_TEXT" />
       <mapping pattern="stopenv" type="PLAIN_TEXT" />
       <mapping pattern="recursively extract" type="PLAIN_TEXT" />
       <mapping pattern="new_tpl" type="PLAIN_TEXT" />
-      <mapping pattern="TRANSFER" type="PLAIN_TEXT" />
-      <mapping pattern="processed_ids" type="PLAIN_TEXT" />
       <mapping pattern="database" type="PLAIN_TEXT" />
+      <mapping pattern="HOURS" type="PLAIN_TEXT" />
+      <mapping pattern="TRANSFER" type="PLAIN_TEXT" />
       <mapping pattern=".docker.env.example" type="PLAIN_TEXT" />
       <mapping pattern="loops_genres" type="PLAIN_TEXT" />
       <mapping pattern="filesizes" type="PLAIN_TEXT" />
@@ -32,19 +34,17 @@
       <mapping pattern="CHANGES" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="aliases" type="PLAIN_TEXT" />
-      <mapping pattern="footer" type="PLAIN_TEXT" />
-      <mapping pattern="startenv" type="PLAIN_TEXT" />
       <mapping pattern="TMP" type="PLAIN_TEXT" />
       <mapping pattern="TASKS2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".gitingnore" type="PLAIN_TEXT" />
-      <mapping pattern="HOURS" type="PLAIN_TEXT" />
+      <mapping pattern="TASKS" type="PLAIN_TEXT" />
       <mapping pattern="PaypalComponent.php" type="PLAIN_TEXT" />
       <mapping pattern=".my" type="PLAIN_TEXT" />
+      <mapping pattern="processed_ids" type="PLAIN_TEXT" />
       <mapping pattern="INSTALL" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="parts" type="PLAIN_TEXT" />
-      <mapping pattern="cc" type="PLAIN_TEXT" />
       <mapping pattern="LoopsDataFileSizes" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="force-centers.php" type="PLAIN_TEXT" />
