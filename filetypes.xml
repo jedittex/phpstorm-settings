@@ -1,6 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="blade" type="Blade" />
       <mapping ext="cnf" type="Ini" />
@@ -24,8 +24,8 @@
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="сс" type="PLAIN_TEXT" />
       <mapping pattern="PaypalComponent.php" type="PLAIN_TEXT" />
-      <mapping pattern="mailru_regions" type="PLAIN_TEXT" />
       <mapping pattern="loops_genres" type="PLAIN_TEXT" />
+      <mapping pattern="mailru_regions" type="PLAIN_TEXT" />
       <mapping pattern="filesizes" type="PLAIN_TEXT" />
       <mapping pattern="INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="parts" type="PLAIN_TEXT" />
@@ -60,6 +60,7 @@
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping pattern="custom_permalink_posts" type="SQL" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping pattern=".gitexcludes" type="Git file" />
     </extensionMap>
   </component>
