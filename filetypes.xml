@@ -24,8 +24,8 @@
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="сс" type="PLAIN_TEXT" />
       <mapping pattern="PaypalComponent.php" type="PLAIN_TEXT" />
-      <mapping pattern="loops_genres" type="PLAIN_TEXT" />
       <mapping pattern="mailru_regions" type="PLAIN_TEXT" />
+      <mapping pattern="loops_genres" type="PLAIN_TEXT" />
       <mapping pattern="filesizes" type="PLAIN_TEXT" />
       <mapping pattern="INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="parts" type="PLAIN_TEXT" />
