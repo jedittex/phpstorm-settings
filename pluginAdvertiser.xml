@@ -12,6 +12,11 @@
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="CodeceptionConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Codeception" pluginName="Codeception Framework" pluginId="com.jetbrains.php.codeception" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="ComposerRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Composer Script" pluginName="PHP" pluginId="com.jetbrains.php" bundled="true" />
@@ -22,9 +27,19 @@
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="DatabaseScript">
+                    <value>
+                      <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="FirefoxRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Firefox Remote" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="HttpClient.HttpRequestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="HTTP Request" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" bundled="true" />
                     </value>
                   </entry>
                   <entry key="JavaScriptTestRunnerJest">
@@ -42,14 +57,29 @@
                       <FeaturePluginData displayName="JavaScript Debug" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="NodeJSConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Node.js" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="NodeWebKit">
                     <value>
                       <FeaturePluginData displayName="NW.js" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="NodeunitConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Nodeunit" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="PHPUnitRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="PHPUnit" pluginName="PHP" pluginId="com.jetbrains.php" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="PhpBehatConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Behat" pluginName="Behat Support" pluginId="com.jetbrains.php.behat" bundled="true" />
                     </value>
                   </entry>
                   <entry key="PhpBuiltInWebServerConfigurationType">
@@ -72,6 +102,11 @@
                       <FeaturePluginData displayName="PHP Remote Debug" pluginName="PHP" pluginId="com.jetbrains.php" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="PhpSpecConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="PHPSpec" pluginName="PHPSpec BDD Framework" pluginId="com.jetbrains.php.phpspec" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="PhpWebAppRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="PHP Web Page" pluginName="PHP" pluginId="com.jetbrains.php" bundled="true" />
@@ -92,6 +127,21 @@
                       <FeaturePluginData displayName="Swagger Codegen" pluginName="OpenAPI Specifications" pluginId="com.intellij.swagger" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="TSqltConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="UtPlSqlConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="XSLT">
+                    <value>
+                      <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="docker-deploy">
                     <value>
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
@@ -110,6 +160,11 @@
                   <entry key="js.build_tools.npm">
                     <value>
                       <FeaturePluginData displayName="npm" pluginName="JavaScript and TypeScript" pluginId="JavaScript" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="mocha-javascript-test-runner">
+                    <value>
+                      <FeaturePluginData displayName="Mocha" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
                     </value>
                   </entry>
                 </map>
